@@ -1,0 +1,305 @@
+Nom,Id
+Abbesses,1
+Alésia,2
+Alexandre Dumas,3
+Alma - Marceau,4
+Anatole France,5
+Anvers,6
+Argentine,7
+Arts et Métiers,8
+Assemblée nationale,9
+Aubervilliers - Pantin - Quatre Chemins,10
+Avenue Émile-Zola,11
+Avron,12
+Balard,13
+Barbès - Rochechouart,14
+Basilique de Saint-Denis,15
+Bastille,16
+Bel-Air,17
+Belleville,18
+Bérault,19
+Bercy,20
+Bibliothèque François-Mitterrand,21
+Billancourt,22
+Bir-Hakeim,23
+Blanche,24
+Bobigny - Pablo Picasso,25
+Bobigny - Pantin - Raymond Queneau,26
+Boissière,27
+Bolivar,28
+Bonne-Nouvelle,29
+Botzaris,30
+Boucicaut,31
+Boulogne - Jean Jaurès,32
+Boulogne - Pont de Saint-Cloud,33
+Bourse,34
+Bréguet - Sabin,35
+Brochant,36
+Buttes Chaumont,37
+Buzenval,38
+Cadet,39
+Cambronne,40
+Campo-Formio,41
+Cardinal Lemoine,42
+Carrefour Pleyel,43
+Censier - Daubenton,44
+Champs-Élysées - Clemenceau,45
+Chardon-Lagache,46
+Charenton - Écoles,47
+Charles de Gaulle - Étoile,48
+Charles Michels,49
+Charonne,50
+Château d'Eau,51
+Château de Vincennes,52
+Château Rouge,53
+Château-Landon,54
+Châtelet,55
+Châtillon - Montrouge,56
+Chaussée d'Antin - La Fayette,57
+Chemin Vert,58
+Chevaleret,59
+Cité,60
+Cluny - La Sorbonne,61
+Colonel Fabien,62
+Commerce,63
+Concorde,64
+Convention,65
+Corentin Cariou,66
+Corentin Celton,67
+Corvisart,68
+Cour Saint-Émilion,69
+Courcelles,70
+Couronnes,71
+Créteil - L'Échat,72
+Créteil - Préfecture,73
+Créteil - Université,74
+Crimée,75
+Croix de Chavaux,76
+Danube,77
+Daumesnil,78
+Denfert-Rochereau,79
+Dugommier,80
+Dupleix,81
+Duroc,82
+École Militaire,83
+École vétérinaire de Maisons-Alfort,84
+Edgar Quinet,85
+Église d'Auteuil,86
+Église de Pantin,87
+Esplanade de La Défense,88
+Étienne Marcel,89
+Europe,90
+Exelmans,91
+Faidherbe - Chaligny,92
+Falguière,93
+Félix Faure,94
+Filles du Calvaire,95
+Fort d'Aubervilliers,96
+Franklin D. Roosevelt,97
+Front Populaire,98
+Gabriel Péri,99
+Gaîté,100
+Gallieni,101
+Gambetta,102
+Gare d'Austerlitz,103
+Gare de l'Est,104
+Gare de Lyon,105
+Gare du Nord,106
+Garibaldi,107
+George V,108
+Glacière,109
+Goncourt,110
+Grands Boulevards,111
+Guy Môquet,112
+Havre - Caumartin,113
+Hoche,114
+Hôtel de Ville,115
+Iéna,116
+Invalides,117
+Jacques Bonsergent,118
+Jasmin,119
+Jaurès,120
+Javel - André Citroën,121
+Jourdain,122
+Jules Joffrin,123
+Jussieu,124
+Kléber,125
+La Chapelle,126
+La Courneuve - 8 Mai 1945,127
+La Défense,128
+La Fourche,129
+La Motte-Picquet - Grenelle,130
+La Muette,131
+La Tour-Maubourg,132
+Lamarck - Caulaincourt,133
+Laumière,134
+Le Kremlin-Bicêtre,135
+Le Peletier,136
+Ledru-Rollin,137
+Les Agnettes,138
+Les Courtilles,139
+Les Gobelins,140
+Les Halles,141
+Les Sablons,142
+Liberté,143
+Liège,144
+Louis Blanc,145
+Louise Michel,146
+Lourmel,147
+Louvre - Rivoli,148
+Mabillon,149
+Madeleine,150
+Mairie d'Issy,151
+Mairie d'Ivry,152
+Mairie de Clichy,153
+Mairie de Montreuil,154
+Mairie de Montrouge,155
+Mairie de Saint-Ouen,156
+Mairie des Lilas,157
+Maison Blanche,158
+Maisons-Alfort - Les Juilliottes,159
+Maisons-Alfort - Stade,160
+Malakoff - Plateau de Vanves,161
+Malakoff - Rue Étienne-Dolet,162
+Malesherbes,163
+Maraîchers,164
+Marcadet - Poissonniers,165
+Marcel Sembat,166
+Marx Dormoy,167
+Maubert - Mutualité,168
+Ménilmontant,169
+Michel Bizot,170
+Michel-Ange - Auteuil,171
+Michel-Ange - Molitor,172
+Mirabeau,173
+Miromesnil,174
+Monceau,175
+Montgallet,176
+Montparnasse - Bienvenüe,177
+Mouton-Duvernet,178
+Nation,179
+Nationale,180
+Notre-Dame-de-Lorette,181
+Notre-Dame-des-Champs,182
+Oberkampf,183
+Odéon,184
+Olympiades,185
+Opéra,186
+Ourcq,187
+Palais-Royal - Musée du Louvre,188
+Parmentier,189
+Passy,190
+Pasteur,191
+Pelleport,192
+Père Lachaise,193
+Pereire,194
+Pernety,195
+Philippe Auguste,196
+Picpus,197
+Pierre et Marie Curie,198
+Pigalle,199
+Place d'Italie,200
+Place de Clichy,201
+Place des Fêtes,202
+Place Monge,203
+Plaisance,204
+Pointe du Lac,205
+Poissonnière,206
+Pont Cardinet,207
+Pont de Levallois - Bécon,208
+Pont de Neuilly,209
+Pont de Sèvres,210
+Pont Marie,211
+Pont-Neuf,212
+Porte d'Auteuil,213
+Porte d'Italie,214
+Porte d'Ivry,215
+Porte d'Orléans,216
+Porte Dauphine,217
+Porte de Bagnolet,218
+Porte de Champerret,219
+Porte de Charenton,220
+Porte de Choisy,221
+Porte de Clichy,222
+Porte de Clignancourt,223
+Porte de la Chapelle,224
+Porte de la Villette,225
+Porte de Montreuil,226
+Porte de Pantin,227
+Porte de Saint-Cloud,228
+Porte de Saint-Ouen,229
+Porte de Vanves,230
+Porte de Versailles,231
+Porte de Vincennes,232
+Porte des Lilas,233
+Porte Dorée,234
+Porte Maillot,235
+Pré-Saint-Gervais,236
+Pyramides,237
+Pyrénées,238
+Quai de la Gare,239
+Quai de la Rapée,240
+Quatre-Septembre,241
+Rambuteau,242
+Ranelagh,243
+Raspail,244
+Réaumur - Sébastopol,245
+Rennes,246
+République,247
+Reuilly - Diderot,248
+Richard-Lenoir,249
+Richelieu - Drouot,250
+Riquet,251
+Robespierre,252
+Rome,253
+Rue de la Pompe,254
+Rue des Boulets,255
+Rue du Bac,256
+Rue Saint-Maur,257
+Saint-Ambroise,258
+Saint-Augustin,259
+Saint-Denis - Porte de Paris,260
+Saint-Denis - Université,261
+Saint-Fargeau,262
+Saint-François-Xavier,263
+Saint-Georges,264
+Saint-Germain-des-Prés,265
+Saint-Jacques,266
+Saint-Lazare,267
+Saint-Mandé,268
+Saint-Marcel,269
+Saint-Michel,270
+Saint-Ouen,271
+Saint-Paul,272
+Saint-Philippe du Roule,273
+Saint-Placide,274
+Saint-Sébastien - Froissart,275
+Saint-Sulpice,276
+Ségur,277
+Sentier,278
+Sèvres - Babylone,279
+Sèvres - Lecourbe,280
+Simplon,281
+Solférino,282
+Stalingrad,283
+Strasbourg - Saint-Denis,284
+Sully - Morland,285
+Télégraphe,286
+Temple,287
+Ternes,288
+Tolbiac,289
+Trinité - d'Estienne d'Orves,290
+Trocadéro,291
+Tuileries,292
+Vaneau,293
+Varenne,294
+Vaugirard,295
+Vavin,296
+Victor Hugo,297
+Villejuif - Léo Lagrange,298
+Villejuif - Louis Aragon,299
+Villejuif - Paul Vaillant-Couturier,300
+Villiers,301
+Volontaires,302
+Voltaire,303
+Wagram,304
