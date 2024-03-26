@@ -10,7 +10,7 @@ User-friendly interface for interaction.
 Special RATP logo display using ASCII art.
 ## Installation  
 -Clone the repository: git clone https://github.com/ILIASER-RACHDI/metroShortPath.git  
--Navigate to the cloned directory: cd metroShortPath\Ratp  
+-Navigate to the cloned directory: cd metroShortPath  
 -Compile the program: gcc Ratp.c -o Ratp  
 -Run the program: ./Ratp 
 
